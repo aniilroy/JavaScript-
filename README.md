@@ -1,3 +1,6 @@
 # JavaScript-
 This is JavaScrip repository.
 <br>Author: Anil Roy
+.........................................
+This is the git demo repo
+.........................................
